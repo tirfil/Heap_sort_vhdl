@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.68 (w)1999-2016 BSI
+[*] Mon Nov 18 11:15:24 2019
+[*]
+[dumpfile] "D:\Users\thirion2\Documents\FPGA\heapsort0\SIM\tb_heapsort.ghw"
+[dumpfile_mtime] "Mon Nov 18 10:46:40 2019"
+[dumpfile_size] 3839
+[savefile] "D:\Users\thirion2\Documents\FPGA\heapsort0\SIM\tb_heapsort.gtkw"
+[timestart] 0
+[size] 1797 831
+[pos] -23 76
+*-28.285917 2120000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_heapsort.
+[treeopen] top.tb_heapsort.i_heapsort_0.
+[sst_width] 197
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 342
+@28
+top.tb_heapsort.done
+top.tb_heapsort.start
+top.tb_heapsort.order
+top.tb_heapsort.ramwe
+top.tb_heapsort.nrst
+top.tb_heapsort.mclk
+top.tb_heapsort.i_heapsort_0.swap
+top.tb_heapsort.i_heapsort_0.state
+@22
+#{top.tb_heapsort.rama[7:0]} top.tb_heapsort.rama[7] top.tb_heapsort.rama[6] top.tb_heapsort.rama[5] top.tb_heapsort.rama[4] top.tb_heapsort.rama[3] top.tb_heapsort.rama[2] top.tb_heapsort.rama[1] top.tb_heapsort.rama[0]
+#{top.tb_heapsort.ramq[7:0]} top.tb_heapsort.ramq[7] top.tb_heapsort.ramq[6] top.tb_heapsort.ramq[5] top.tb_heapsort.ramq[4] top.tb_heapsort.ramq[3] top.tb_heapsort.ramq[2] top.tb_heapsort.ramq[1] top.tb_heapsort.ramq[0]
+#{top.tb_heapsort.ramd[7:0]} top.tb_heapsort.ramd[7] top.tb_heapsort.ramd[6] top.tb_heapsort.ramd[5] top.tb_heapsort.ramd[4] top.tb_heapsort.ramd[3] top.tb_heapsort.ramd[2] top.tb_heapsort.ramd[1] top.tb_heapsort.ramd[0]
+#{top.tb_heapsort.i_heapsort_0.idx[7:0]} top.tb_heapsort.i_heapsort_0.idx[7] top.tb_heapsort.i_heapsort_0.idx[6] top.tb_heapsort.i_heapsort_0.idx[5] top.tb_heapsort.i_heapsort_0.idx[4] top.tb_heapsort.i_heapsort_0.idx[3] top.tb_heapsort.i_heapsort_0.idx[2] top.tb_heapsort.i_heapsort_0.idx[1] top.tb_heapsort.i_heapsort_0.idx[0]
+#{top.tb_heapsort.i_heapsort_0.maxi[7:0]} top.tb_heapsort.i_heapsort_0.maxi[7] top.tb_heapsort.i_heapsort_0.maxi[6] top.tb_heapsort.i_heapsort_0.maxi[5] top.tb_heapsort.i_heapsort_0.maxi[4] top.tb_heapsort.i_heapsort_0.maxi[3] top.tb_heapsort.i_heapsort_0.maxi[2] top.tb_heapsort.i_heapsort_0.maxi[1] top.tb_heapsort.i_heapsort_0.maxi[0]
+#{top.tb_heapsort.i_heapsort_0.idx21[8:0]} top.tb_heapsort.i_heapsort_0.idx21[8] top.tb_heapsort.i_heapsort_0.idx21[7] top.tb_heapsort.i_heapsort_0.idx21[6] top.tb_heapsort.i_heapsort_0.idx21[5] top.tb_heapsort.i_heapsort_0.idx21[4] top.tb_heapsort.i_heapsort_0.idx21[3] top.tb_heapsort.i_heapsort_0.idx21[2] top.tb_heapsort.i_heapsort_0.idx21[1] top.tb_heapsort.i_heapsort_0.idx21[0]
+#{top.tb_heapsort.i_heapsort_0.idx22[8:0]} top.tb_heapsort.i_heapsort_0.idx22[8] top.tb_heapsort.i_heapsort_0.idx22[7] top.tb_heapsort.i_heapsort_0.idx22[6] top.tb_heapsort.i_heapsort_0.idx22[5] top.tb_heapsort.i_heapsort_0.idx22[4] top.tb_heapsort.i_heapsort_0.idx22[3] top.tb_heapsort.i_heapsort_0.idx22[2] top.tb_heapsort.i_heapsort_0.idx22[1] top.tb_heapsort.i_heapsort_0.idx22[0]
+[pattern_trace] 1
+[pattern_trace] 0
