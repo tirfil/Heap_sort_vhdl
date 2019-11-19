@@ -13,7 +13,7 @@ https://www.oreilly.com/library/view/algorithms-in-a/9780596516246/ch04s06.html
 
 
 
- __About 10 x more efficient then bubble sort !__
+ __About 10 x more efficient than bubble sort !__
  * Buildheap : about 1800 clock cycles
  * Sort part : about 11050 clock cycles for 255 items.
 
